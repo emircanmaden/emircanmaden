@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <h1>🍻 Hakkımda</h1>
+  <p>Discord Onaylı Geliştiriciyim.</p>
+  <br>
+  <br>
 
-<!--
-**emircanmaden/emircanmaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   <a href="https://discord.com/users/702463861034319974" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/702463861034319974?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+   </a>
 
-Here are some ideas to get you started:
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=emircanmaden&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
+  <br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emircanmaden&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
+  <br> 
+</div>
+<br><br>
+  <h1>İletişim</h1>
+  <a href="https://discord.com/users/702463861034319974" target="_blank"><img src="https://shields.io/badge/emircanmaden-111111.svg?&style=for-the-badge&logo=discord"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
