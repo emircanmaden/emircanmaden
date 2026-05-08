@@ -1,8 +1,5 @@
 <div align="center">
-  <h1>🍻 Hakkımda</h1>
-  <p>Discord Onaylı Geliştiriciyim.</p>
-  <br>
-  <br>
+
   
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=emircanmaden&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
